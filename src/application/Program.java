@@ -30,6 +30,7 @@ public class Program {
         
         System.out.printf("The X area is: %.2f%n", areaX);
         System.out.printf("The Y area is: %.2f%n", areaY);
+        System.out.printf("Only a test");
     }
     
 }
