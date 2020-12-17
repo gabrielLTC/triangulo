@@ -15,7 +15,7 @@ public class Program {
         x = new Triangle();
         y = new Triangle();
         
-        System.out.println("Enter the measures of trinagle x");
+        System.out.println("Enter the measures of trinagle  x");
         x.a = sc.nextDouble();
         x.b = sc.nextDouble();
         x.c = sc.nextDouble();
@@ -31,6 +31,7 @@ public class Program {
         System.out.printf("The X area is: %.2f%n", areaX);
         System.out.printf("The Y area is: %.2f%n", areaY);
         System.out.printf("Only a test");
+        System.out.printf("Only another test");
     }
     
 }
